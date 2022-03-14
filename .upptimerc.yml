@@ -75,15 +75,12 @@ status-website:
   introTitle: ""
   introMessage: Contactez-nous si vous constatez des problèmes avec nos services, nous corrigerons ça au plus tôt. Merci de votre patience :)
   navbar:
-    - title: Status
-      href: /status/
     - title: Site web de Tela Botanica
       href: https://www.tela-botanica.org
     - title: Plateforme Tela Formation
       href: https://mooc.tela-botanica.org
 
 i18n:
-  activeIncidents: Incidentes activos
   allSystemsOperational: Tous les systèmes sont opérationnels \o/
   pastIncidents: Incidents passés
 
