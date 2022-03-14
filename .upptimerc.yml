@@ -17,6 +17,13 @@ sites:
       - kstefanini
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
+  - name: Observatoire des Saisons
+    url: https://www.obs-saisons.fr/
+    icon: https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png
+    assignees:
+      - kstefanini
+    headers:
+      - "User-Agent: Upptime bot / github.com/telabotanica/status"
   - name: eFlore API
     url: https://api.tela-botanica.org/service:eflore:0.1/bdtfx/taxons/
     icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
