@@ -12,7 +12,7 @@ sites:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
   - name: Plateforme Tela Formation
     url: https://mooc.tela-botanica.org
-    icon: view-source:https://web.archive.org/web/20220206151548im_/https://mooc.tela-botanica.org/pluginfile.php/1/theme_telaformation/favicon/1643821402/favicon_plateforme.png
+    icon: https://web.archive.org/web/20220206151548im_/https://mooc.tela-botanica.org/pluginfile.php/1/theme_telaformation/favicon/1643821402/favicon_plateforme.png
     assignees:
       - kstefanini
     headers:
