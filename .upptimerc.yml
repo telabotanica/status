@@ -55,6 +55,15 @@ sites:
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
 
+workflowSchedule:
+  graphs: "0 * * * *" # (default: "0 0 * * *")
+  responseTime: "0 * * * *" # (default: "0 23 * * *")
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 0 * * *" # triggered by cloudflare worker https://github.com/upptime/upptime/issues/42#issuecomment-840264035 (default: "*/5 * * * *")
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -67,7 +76,7 @@ status-website:
   introMessage: Contactez-nous si vous constatez des problèmes avec nos services, nous corrigerons ça au plus tôt. Merci de votre patience :)
   navbar:
     - title: Status
-      href: /
+      href: /status/
     - title: Site web de Tela Botanica
       href: https://www.tela-botanica.org
     - title: Plateforme Tela Formation
