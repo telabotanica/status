@@ -1,31 +1,64 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: telabotanica # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Site web de Tela Botanica
+    url: https://www.tela-botanica.org
+    icon: https://www.tela-botanica.org/favicon.ico
+    assignees:
+      - kstefanini
+    headers:
+      - "User-Agent: Upptime bot / github.com/telabotanica/status"
+  - name: Plateforme Tela Formation
+    url: https://mooc.tela-botanica.org
+    assignees:
+      - kstefanini
+    headers:
+      - "User-Agent: Upptime bot / github.com/telabotanica/status"
+  - name: eFlore API
+    url: https://api.tela-botanica.org/service:eflore:0.1/bdtfx/taxons/
+    icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
+    assignees:
+      - CDelph
+    headers:
+      - "User-Agent: Upptime bot / github.com/telabotanica/status"
+  - name: CEL API
+    url: https://api-cel.tela-botanica.org/api/
+    icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
+    assignees:
+      - kstefanini
+    headers:
+      - "User-Agent: Upptime bot / github.com/telabotanica/status"
+  - name: Annuaire API
+    url: https://www.tela-botanica.org/service:annuaire:auth/
+    assignees:
+      - kstefanini
+    headers:
+      - "User-Agent: Upptime bot / github.com/telabotanica/status"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #cname: demo.upptime.js.org
+  baseUrl: /status
+  logoUrl: https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_Tela.png
+  favicon: https://avatars.githubusercontent.com/u/3706326?s=400&u=6c0362cee1b5ef60fe05b7bf0e366eb82ebdea9a&v=4
+  name: Tela Botanica status page
+  introTitle: ""
+  introMessage: Contactez-nous si vous constatez des problèmes avec nos services, nous corrigerons ça au plus tôt. Merci de votre patience :)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Site web de Tela Botanica
+      href: https://www.tela-botanica.org
+    - title: Plateforme Tela Formation
+      href: https://mooc.tela-botanica.org
+
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Tous les systèmes sont opérationnels \o/
+  pastIncidents: Incidents passés
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
