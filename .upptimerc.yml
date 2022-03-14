@@ -83,6 +83,12 @@ status-website:
 i18n:
   allSystemsOperational: Tous les systèmes sont opérationnels \o/
   pastIncidents: Incidents passés
+  overallUptime: "Temps de disponibilité global: $UPTIME"
+  overallUptimeTitle: Temps de disponibilité global
+  averageResponseTime: "Temps de réponse moyen: $TIMEms"
+  averageResponseTimeTitle: Temps de réponse moyen
+  sevelDayResponseTime: Temps de réponse sur 7 jours
+  responseTimeMs: Temps de réponse (ms)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
