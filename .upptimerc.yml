@@ -45,6 +45,15 @@ sites:
       - kstefanini
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
+  - name: Serveur Adansonia
+    url: http://tela-botanica.no-ip.org/
+    assignees:
+      - kstefanini
+      - CDelph
+      - verovs
+      - ya-web
+    headers:
+      - "User-Agent: Upptime bot / github.com/telabotanica/status"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
