@@ -81,14 +81,34 @@ status-website:
       href: https://mooc.tela-botanica.org
 
 i18n:
+  activeIncidents: Active Incidents
   allSystemsOperational: Tous les systèmes sont opérationnels \o/
+  incidentReport: "Incident #$NUMBER détails →"
+  activeIncidentSummary: Ouvert à $DATE avec $POSTS mises à jours
+  incidentTitle: Incident $NUMBER Détails
+  incidentDetails: Incident Details
+  incidentFixed: Corrigé
+  incidentOngoing: En cours
+  incidentOpenedAt: Début
+  incidentClosedAt: Fin
+  incidentSubscribe: Recevoir les mises à jour
+  incidentViewOnGitHub: Consulter sur GitHub
+  incidentCommentSummary: Posté à $DATE par $AUTHOR
+  incidentBack: ← Retour aux incidents
   pastIncidents: Incidents passés
+  pastIncidentsResolved: Corrigé en $MINUTES minutes avec $POSTS mises à jours
+  liveStatus: En direct
   overallUptime: "Temps de disponibilité global: $UPTIME"
   overallUptimeTitle: Temps de disponibilité global
   averageResponseTime: "Temps de réponse moyen: $TIMEms"
   averageResponseTimeTitle: Temps de réponse moyen
   sevelDayResponseTime: Temps de réponse sur 7 jours
   responseTimeMs: Temps de réponse (ms)
+  up: OK
+  down: Indisponible
+  degraded: Dégradé
+  ms: ms
+  loading: Chargement
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
