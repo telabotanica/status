@@ -4,19 +4,19 @@
     "url": "https://www.tela-botanica.org",
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
-    "time": 1659,
-    "timeDay": 1987,
-    "timeWeek": 1659,
-    "timeMonth": 1659,
-    "timeYear": 1659,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
+    "time": 1813,
+    "timeDay": 2448,
+    "timeWeek": 1813,
+    "timeMonth": 1813,
+    "timeYear": 1813,
     "dailyMinutesDown": {
-      "2022-03-17": 32
+      "2022-03-17": 34
     }
   },
   {
@@ -25,16 +25,16 @@
     "icon": "https://web.archive.org/web/20220206151548im_/https://mooc.tela-botanica.org/pluginfile.php/1/theme_telaformation/favicon/1643821402/favicon_plateforme.png",
     "slug": "plateforme-tela-formation",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 888,
-    "timeDay": 877,
-    "timeWeek": 888,
-    "timeMonth": 888,
-    "timeYear": 888,
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 887,
+    "timeDay": 878,
+    "timeWeek": 887,
+    "timeMonth": 887,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2022-03-15": 29
     }
@@ -45,18 +45,18 @@
     "icon": "https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png",
     "slug": "observatoire-des-saisons",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.27%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
     "time": 1704,
-    "timeDay": 2325,
+    "timeDay": 2361,
     "timeWeek": 1704,
     "timeMonth": 1704,
     "timeYear": 1704,
     "dailyMinutesDown": {
-      "2022-03-17": 27
+      "2022-03-17": 30
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "e-flore-api",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1319,
-    "timeDay": 2013,
+    "timeDay": 2058,
     "timeWeek": 1319,
     "timeMonth": 1319,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2022-03-17": 1
+      "2022-03-17": 5
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "cel-api",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptime": "99.41%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 1086,
-    "timeDay": 1592,
+    "timeDay": 1623,
     "timeWeek": 1086,
     "timeMonth": 1086,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2022-03-17": 21
+      "2022-03-17": 24
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://www.tela-botanica.org/service:annuaire:auth/",
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "annuaire-api",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 861,
-    "timeDay": 889,
-    "timeWeek": 861,
-    "timeMonth": 861,
-    "timeYear": 861,
+    "status": "up",
+    "uptime": "99.23%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
+    "time": 972,
+    "timeDay": 1216,
+    "timeWeek": 972,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {
-      "2022-03-17": 29
+      "2022-03-17": 32
     }
   },
   {
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 365,
-    "timeWeek": 350,
-    "timeMonth": 350,
-    "timeYear": 350,
+    "time": 351,
+    "timeDay": 369,
+    "timeWeek": 351,
+    "timeMonth": 351,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   }
 ]
