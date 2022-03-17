@@ -4,19 +4,19 @@
     "url": "https://www.tela-botanica.org",
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 1813,
     "timeDay": 2448,
     "timeWeek": 1813,
     "timeMonth": 1813,
     "timeYear": 1813,
     "dailyMinutesDown": {
-      "2022-03-17": 34
+      "2022-03-17": 36
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png",
     "slug": "observatoire-des-saisons",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "uptime": "99.12%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
     "time": 1704,
     "timeDay": 2361,
     "timeWeek": 1704,
     "timeMonth": 1704,
     "timeYear": 1704,
     "dailyMinutesDown": {
-      "2022-03-17": 30
+      "2022-03-17": 36
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "e-flore-api",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.74%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 1319,
     "timeDay": 2058,
     "timeWeek": 1319,
     "timeMonth": 1319,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2022-03-17": 5
+      "2022-03-17": 11
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "cel-api",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.64%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 1086,
     "timeDay": 1623,
     "timeWeek": 1086,
     "timeMonth": 1086,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2022-03-17": 24
+      "2022-03-17": 15
     }
   },
   {
