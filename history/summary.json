@@ -5,11 +5,11 @@
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
     "time": 1552,
     "timeDay": 1477,
     "timeWeek": 1470,
@@ -128,19 +128,19 @@
     "url": "http://tela-botanica.no-ip.org/",
     "icon": "https://favicons.githubusercontent.com/tela-botanica.no-ip.org",
     "slug": "serveur-adansonia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 350,
-    "timeDay": 354,
+    "timeDay": 352,
     "timeWeek": 347,
     "timeMonth": 350,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2022-03-29": 0
+      "2022-03-29": 5
     }
   }
 ]
