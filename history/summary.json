@@ -35,7 +35,7 @@
     "time": 872,
     "timeDay": 921,
     "timeWeek": 849,
-    "timeMonth": 870,
+    "timeMonth": 871,
     "timeYear": 872,
     "dailyMinutesDown": {
       "2022-03-25": 5,
@@ -130,19 +130,19 @@
     "url": "http://tela-botanica.no-ip.org/",
     "icon": "https://favicons.githubusercontent.com/tela-botanica.no-ip.org",
     "slug": "serveur-adansonia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 383,
-    "timeWeek": 379,
-    "timeMonth": 362,
-    "timeYear": 358,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 359,
+    "timeDay": 390,
+    "timeWeek": 380,
+    "timeMonth": 363,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2022-04-29": 1
+      "2022-04-29": 25
     }
   }
 ]
