@@ -45,6 +45,13 @@ sites:
       - kstefanini
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
+  - name: Smart'Flore API
+    url: https://www.tela-botanica.org/smartflore-services/trail
+    icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
+    assignees:
+      - kstefanini
+    headers:
+      - "User-Agent: Upptime bot / github.com/telabotanica/status"
   - name: Serveur Adansonia
     url: http://tela-botanica.no-ip.org/
     assignees:
