@@ -133,19 +133,19 @@
     "url": "https://www.tela-botanica.org/smartflore-services/trail",
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "smart-flore-api",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 402,
     "timeDay": 403,
     "timeWeek": 402,
     "timeMonth": 402,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2022-05-13": 1
+      "2022-05-13": 3
     }
   },
   {
