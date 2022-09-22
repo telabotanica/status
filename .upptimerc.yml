@@ -46,7 +46,7 @@ sites:
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
   - name: Smart'Flore API
-    url: https://www.tela-botanica.org/smartflore-services/trail
+    url: https://www.tela-botanica.org/smartflore-services/trails
     icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
     assignees:
       - kstefanini
