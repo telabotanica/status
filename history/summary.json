@@ -5,15 +5,15 @@
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
     "status": "up",
-    "uptime": "96.41%",
+    "uptime": "96.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.77%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "93.89%",
-    "time": 1407,
-    "timeDay": 1471,
-    "timeWeek": 1455,
-    "timeMonth": 1517,
+    "time": 1410,
+    "timeDay": 1526,
+    "timeWeek": 1494,
+    "timeMonth": 1513,
     "timeYear": 1408,
     "dailyMinutesDown": {
       "2024-08-04": 121,
@@ -61,8 +61,7 @@
       "2023-10-09": 831,
       "2023-10-05": 183,
       "2023-09-09": 538,
-      "2023-09-06": 608,
-      "2023-09-05": 706
+      "2023-09-06": 608
     }
   },
   {
@@ -76,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 967,
-    "timeDay": 1164,
-    "timeWeek": 1116,
-    "timeMonth": 1158,
-    "timeYear": 969,
+    "time": 974,
+    "timeDay": 1101,
+    "timeWeek": 1118,
+    "timeMonth": 1157,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2024-04-30": 175,
       "2024-04-18": 58,
@@ -97,16 +96,16 @@
     "icon": "https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png",
     "slug": "observatoire-des-saisons",
     "status": "up",
-    "uptime": "97.61%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.77%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "95.85%",
-    "time": 1294,
-    "timeDay": 1466,
-    "timeWeek": 1361,
-    "timeMonth": 1349,
-    "timeYear": 1294,
+    "time": 1296,
+    "timeDay": 1296,
+    "timeWeek": 1354,
+    "timeMonth": 1346,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2024-08-04": 120,
       "2024-07-30": 310,
@@ -144,8 +143,7 @@
       "2023-10-20": 204,
       "2023-10-05": 183,
       "2023-09-09": 483,
-      "2023-09-06": 608,
-      "2023-09-05": 705
+      "2023-09-06": 608
     }
   },
   {
@@ -154,16 +152,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "e-flore-api",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.95%",
     "uptimeYear": "96.97%",
-    "time": 1391,
-    "timeDay": 1577,
-    "timeWeek": 1388,
-    "timeMonth": 1442,
-    "timeYear": 1390,
+    "time": 1390,
+    "timeDay": 1376,
+    "timeWeek": 1431,
+    "timeMonth": 1427,
+    "timeYear": 1389,
     "dailyMinutesDown": {
       "2024-08-05": 430,
       "2024-08-04": 469,
@@ -182,8 +180,7 @@
       "2023-12-22": 230,
       "2023-12-05": 180,
       "2023-09-09": 596,
-      "2023-09-06": 608,
-      "2023-09-05": 705
+      "2023-09-06": 608
     }
   },
   {
@@ -192,16 +189,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "cel-api",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.95%",
     "uptimeYear": "96.97%",
-    "time": 884,
-    "timeDay": 996,
-    "timeWeek": 896,
-    "timeMonth": 918,
-    "timeYear": 884,
+    "time": 883,
+    "timeDay": 888,
+    "timeWeek": 894,
+    "timeMonth": 897,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2024-08-05": 430,
       "2024-08-04": 469,
@@ -220,8 +217,7 @@
       "2023-12-22": 230,
       "2023-12-05": 179,
       "2023-09-09": 596,
-      "2023-09-06": 608,
-      "2023-09-05": 704
+      "2023-09-06": 608
     }
   },
   {
@@ -230,15 +226,15 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "annuaire-api",
     "status": "up",
-    "uptime": "97.09%",
+    "uptime": "97.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.77%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "93.90%",
     "time": 802,
-    "timeDay": 808,
-    "timeWeek": 768,
-    "timeMonth": 817,
+    "timeDay": 760,
+    "timeWeek": 780,
+    "timeMonth": 776,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2024-08-04": 119,
@@ -287,8 +283,7 @@
       "2023-10-09": 831,
       "2023-10-05": 183,
       "2023-09-09": 481,
-      "2023-09-06": 608,
-      "2023-09-05": 704
+      "2023-09-06": 608
     }
   },
   {
@@ -297,16 +292,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "smart-flore-api",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.78%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "93.96%",
-    "time": 7425,
-    "timeDay": 7357,
-    "timeWeek": 7300,
-    "timeMonth": 7724,
-    "timeYear": 7437,
+    "time": 7440,
+    "timeDay": 7269,
+    "timeWeek": 7415,
+    "timeMonth": 7463,
+    "timeYear": 7449,
     "dailyMinutesDown": {
       "2024-08-04": 119,
       "2024-07-30": 310,
@@ -350,8 +345,7 @@
       "2023-10-09": 831,
       "2023-10-05": 183,
       "2023-09-09": 481,
-      "2023-09-06": 608,
-      "2023-09-05": 703
+      "2023-09-06": 608
     }
   },
   {
@@ -360,7 +354,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "44.43%",
+    "uptime": "43.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -371,7 +365,17 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-25": 52,
+      "2024-09-04": 50,
+      "2024-09-03": 1440,
+      "2024-09-02": 1440,
+      "2024-09-01": 1440,
+      "2024-08-31": 1440,
+      "2024-08-30": 1440,
+      "2024-08-29": 1440,
+      "2024-08-28": 1440,
+      "2024-08-27": 1440,
+      "2024-08-26": 1440,
+      "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -725,17 +729,7 @@
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
-      "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 1440,
-      "2023-08-30": 1440,
-      "2023-08-29": 1440,
-      "2023-08-28": 1440,
-      "2023-08-27": 1440
+      "2023-09-06": 1440
     }
   }
 ]
