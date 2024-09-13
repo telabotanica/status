@@ -1,7 +1,7 @@
 url: https://www.obs-saisons.fr/
-status: up
-code: 200
-responseTime: 2301
-lastUpdated: 2024-09-13T00:45:05.210Z
+status: down
+code: 500
+responseTime: 863
+lastUpdated: 2024-09-13T01:26:27.346Z
 startTime: 2022-03-14T11:34:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
