@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "94.68%",
-    "time": 1414,
-    "timeDay": 1424,
-    "timeWeek": 1410,
-    "timeMonth": 1432,
-    "timeYear": 1414,
+    "uptimeYear": "94.95%",
+    "time": 1413,
+    "timeDay": 1297,
+    "timeWeek": 1390,
+    "timeMonth": 1426,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2024-10-03": 57,
       "2024-09-27": 60,
@@ -56,8 +56,7 @@
       "2023-10-17": 847,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   },
   {
@@ -71,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 998,
-    "timeDay": 1158,
-    "timeWeek": 1109,
-    "timeMonth": 1126,
-    "timeYear": 1000,
+    "time": 999,
+    "timeDay": 1115,
+    "timeWeek": 1108,
+    "timeMonth": 1125,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2024-04-30": 175,
       "2024-04-18": 58,
@@ -98,10 +97,10 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "96.20%",
     "time": 1297,
-    "timeDay": 1281,
-    "timeWeek": 1327,
-    "timeMonth": 1303,
-    "timeYear": 1298,
+    "timeDay": 1221,
+    "timeWeek": 1313,
+    "timeMonth": 1297,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2024-10-03": 56,
       "2024-09-27": 60,
@@ -153,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.33%",
-    "time": 1378,
-    "timeDay": 1042,
-    "timeWeek": 1051,
-    "timeMonth": 1240,
-    "timeYear": 1378,
+    "time": 1377,
+    "timeDay": 998,
+    "timeWeek": 1046,
+    "timeMonth": 1227,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2024-08-05": 430,
       "2024-08-04": 469,
@@ -189,10 +188,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.33%",
     "time": 885,
-    "timeDay": 833,
-    "timeWeek": 870,
-    "timeMonth": 878,
-    "timeYear": 886,
+    "timeDay": 817,
+    "timeWeek": 862,
+    "timeMonth": 873,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2024-08-05": 430,
       "2024-08-04": 469,
@@ -218,14 +217,14 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "annuaire-api",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "94.69%",
+    "uptimeYear": "94.96%",
     "time": 806,
-    "timeDay": 854,
-    "timeWeek": 803,
+    "timeDay": 823,
+    "timeWeek": 811,
     "timeMonth": 815,
     "timeYear": 806,
     "dailyMinutesDown": {
@@ -270,8 +269,7 @@
       "2023-10-17": 848,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   },
   {
@@ -284,12 +282,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "94.76%",
+    "uptimeYear": "95.03%",
     "time": 7513,
-    "timeDay": 7494,
-    "timeWeek": 7381,
-    "timeMonth": 7663,
-    "timeYear": 7517,
+    "timeDay": 7353,
+    "timeWeek": 7363,
+    "timeMonth": 7628,
+    "timeYear": 7516,
     "dailyMinutesDown": {
       "2024-10-03": 55,
       "2024-09-27": 59,
@@ -327,8 +325,7 @@
       "2023-10-17": 848,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   },
   {
@@ -337,7 +334,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "42.21%",
+    "uptime": "42.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -348,7 +345,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-11": 58,
+      "2024-10-12": 58,
+      "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -711,8 +709,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   }
 ]
