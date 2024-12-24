@@ -5,15 +5,15 @@
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
     "status": "up",
-    "uptime": "96.78%",
-    "uptimeDay": "66.70%",
+    "uptime": "96.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.24%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "96.44%",
+    "uptimeYear": "96.77%",
     "time": 1436,
-    "timeDay": 1510,
-    "timeWeek": 1693,
-    "timeMonth": 1545,
+    "timeDay": 1339,
+    "timeWeek": 1623,
+    "timeMonth": 1540,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2024-12-21": 479,
@@ -47,10 +47,7 @@
       "2023-12-29": 783,
       "2023-12-28": 784,
       "2023-12-27": 722,
-      "2023-12-26": 962,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-26": 962
     }
   },
   {
@@ -64,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1044,
-    "timeDay": 1224,
-    "timeWeek": 1200,
-    "timeMonth": 1133,
-    "timeYear": 1049,
+    "time": 1046,
+    "timeDay": 1170,
+    "timeWeek": 1190,
+    "timeMonth": 1138,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2024-04-30": 175,
       "2024-04-18": 58,
@@ -85,15 +82,15 @@
     "icon": "https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png",
     "slug": "observatoire-des-saisons",
     "status": "up",
-    "uptime": "97.80%",
-    "uptimeDay": "35.24%",
+    "uptime": "97.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "90.75%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "96.05%",
+    "uptimeYear": "96.38%",
     "time": 1297,
-    "timeDay": 1241,
-    "timeWeek": 1366,
-    "timeMonth": 1313,
+    "timeDay": 1300,
+    "timeWeek": 1357,
+    "timeMonth": 1314,
     "timeYear": 1297,
     "dailyMinutesDown": {
       "2024-12-21": 933,
@@ -129,10 +126,7 @@
       "2023-12-29": 783,
       "2023-12-28": 783,
       "2023-12-27": 721,
-      "2023-12-26": 962,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-26": 962
     }
   },
   {
@@ -145,12 +139,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.35%",
-    "time": 1310,
-    "timeDay": 953,
-    "timeWeek": 1050,
-    "timeMonth": 1050,
-    "timeYear": 1309,
+    "uptimeYear": "97.68%",
+    "time": 1308,
+    "timeDay": 972,
+    "timeWeek": 1026,
+    "timeMonth": 1047,
+    "timeYear": 1307,
     "dailyMinutesDown": {
       "2024-12-06": 60,
       "2024-08-05": 430,
@@ -163,10 +157,7 @@
       "2023-12-29": 782,
       "2023-12-28": 782,
       "2023-12-27": 721,
-      "2023-12-26": 961,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-26": 961
     }
   },
   {
@@ -179,11 +170,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.35%",
+    "uptimeYear": "97.68%",
     "time": 887,
-    "timeDay": 846,
-    "timeWeek": 886,
-    "timeMonth": 879,
+    "timeDay": 879,
+    "timeWeek": 862,
+    "timeMonth": 878,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2024-12-06": 60,
@@ -197,10 +188,7 @@
       "2023-12-29": 782,
       "2023-12-28": 782,
       "2023-12-27": 720,
-      "2023-12-26": 960,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-26": 960
     }
   },
   {
@@ -209,16 +197,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "annuaire-api",
     "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "66.77%",
+    "uptime": "97.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.25%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "96.45%",
+    "uptimeYear": "96.78%",
     "time": 814,
-    "timeDay": 968,
-    "timeWeek": 862,
-    "timeMonth": 845,
-    "timeYear": 815,
+    "timeDay": 802,
+    "timeWeek": 867,
+    "timeMonth": 844,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2024-12-21": 479,
       "2024-12-06": 60,
@@ -252,10 +240,7 @@
       "2023-12-29": 781,
       "2023-12-28": 782,
       "2023-12-27": 719,
-      "2023-12-26": 960,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-26": 960
     }
   },
   {
@@ -264,16 +249,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "smart-flore-api",
     "status": "up",
-    "uptime": "97.28%",
-    "uptimeDay": "70.72%",
+    "uptime": "97.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.82%",
     "uptimeMonth": "98.90%",
-    "uptimeYear": "96.53%",
-    "time": 7560,
-    "timeDay": 9290,
-    "timeWeek": 8267,
-    "timeMonth": 7586,
-    "timeYear": 7576,
+    "uptimeYear": "96.86%",
+    "time": 7563,
+    "timeDay": 7323,
+    "timeWeek": 7964,
+    "timeMonth": 7579,
+    "timeYear": 7577,
     "dailyMinutesDown": {
       "2024-12-21": 422,
       "2024-12-06": 59,
@@ -302,10 +287,7 @@
       "2023-12-29": 781,
       "2023-12-28": 782,
       "2023-12-27": 719,
-      "2023-12-26": 959,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-26": 959
     }
   },
   {
@@ -314,7 +296,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "39.23%",
+    "uptime": "39.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -325,7 +307,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-21": 1037,
+      "2024-12-24": 59,
+      "2024-12-23": 1440,
+      "2024-12-22": 1440,
+      "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -686,10 +671,7 @@
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440,
-      "2023-12-23": 1440
+      "2023-12-26": 1440
     }
   }
 ]
