@@ -5,15 +5,15 @@
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
     "status": "up",
-    "uptime": "96.80%",
+    "uptime": "96.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.24%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "97.64%",
+    "uptimeYear": "97.87%",
     "time": 1437,
-    "timeDay": 1530,
-    "timeWeek": 1421,
-    "timeMonth": 1511,
+    "timeDay": 1408,
+    "timeWeek": 1427,
+    "timeMonth": 1500,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2024-12-21": 479,
@@ -42,8 +42,7 @@
       "2024-01-09": 237,
       "2024-01-02": 427,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
@@ -57,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1051,
-    "timeDay": 1136,
-    "timeWeek": 1169,
-    "timeMonth": 1140,
-    "timeYear": 1053,
+    "time": 1052,
+    "timeDay": 1082,
+    "timeWeek": 1145,
+    "timeMonth": 1143,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2024-04-30": 175,
       "2024-04-18": 58,
@@ -77,18 +76,19 @@
     "url": "https://www.obs-saisons.fr/",
     "icon": "https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png",
     "slug": "observatoire-des-saisons",
-    "status": "up",
+    "status": "down",
     "uptime": "97.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.75%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "97.25%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "97.58%",
+    "uptimeYear": "97.48%",
     "time": 1298,
-    "timeDay": 1306,
+    "timeDay": 1290,
     "timeWeek": 1324,
     "timeMonth": 1317,
     "timeYear": 1298,
     "dailyMinutesDown": {
+      "2024-12-29": 4,
       "2024-12-21": 933,
       "2024-12-13": 64,
       "2024-12-06": 60,
@@ -117,8 +117,7 @@
       "2024-01-09": 237,
       "2024-01-02": 427,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
@@ -131,12 +130,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.55%",
-    "time": 1304,
-    "timeDay": 1066,
-    "timeWeek": 1022,
-    "timeMonth": 1048,
-    "timeYear": 1304,
+    "uptimeYear": "98.78%",
+    "time": 1303,
+    "timeDay": 1052,
+    "timeWeek": 1025,
+    "timeMonth": 1029,
+    "timeYear": 1303,
     "dailyMinutesDown": {
       "2024-12-06": 60,
       "2024-08-05": 430,
@@ -144,8 +143,7 @@
       "2024-01-29": 416,
       "2024-01-02": 427,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
@@ -158,12 +156,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.55%",
-    "time": 889,
-    "timeDay": 996,
-    "timeWeek": 946,
-    "timeMonth": 891,
-    "timeYear": 889,
+    "uptimeYear": "98.78%",
+    "time": 890,
+    "timeDay": 932,
+    "timeWeek": 967,
+    "timeMonth": 894,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2024-12-06": 60,
       "2024-08-05": 430,
@@ -171,8 +169,7 @@
       "2024-01-29": 415,
       "2024-01-02": 428,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
@@ -183,14 +180,14 @@
     "status": "up",
     "uptime": "97.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.25%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "97.65%",
-    "time": 816,
-    "timeDay": 923,
-    "timeWeek": 871,
-    "timeMonth": 852,
-    "timeYear": 816,
+    "uptimeYear": "97.88%",
+    "time": 817,
+    "timeDay": 1247,
+    "timeWeek": 916,
+    "timeMonth": 866,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2024-12-21": 479,
       "2024-12-06": 60,
@@ -219,8 +216,7 @@
       "2024-01-09": 237,
       "2024-01-02": 428,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
@@ -231,14 +227,14 @@
     "status": "up",
     "uptime": "97.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.90%",
-    "uptimeYear": "97.73%",
+    "uptimeYear": "97.96%",
     "time": 7575,
-    "timeDay": 7454,
-    "timeWeek": 7541,
-    "timeMonth": 7593,
-    "timeYear": 7577,
+    "timeDay": 7506,
+    "timeWeek": 7442,
+    "timeMonth": 7603,
+    "timeYear": 7578,
     "dailyMinutesDown": {
       "2024-12-21": 422,
       "2024-12-06": 59,
@@ -262,8 +258,7 @@
       "2024-01-09": 236,
       "2024-01-02": 428,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
@@ -272,7 +267,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "38.98%",
+    "uptime": "38.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -283,7 +278,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 56,
+      "2024-12-29": 1036,
+      "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -646,8 +642,7 @@
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   }
 ]
