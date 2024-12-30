@@ -4,19 +4,20 @@
     "url": "https://www.tela-botanica.org",
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
-    "status": "down",
-    "uptime": "96.81%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "97.87%",
+    "status": "up",
+    "uptime": "96.76%",
+    "uptimeDay": "49.84%",
+    "uptimeWeek": "92.83%",
+    "uptimeMonth": "97.12%",
+    "uptimeYear": "97.86%",
     "time": 1437,
-    "timeDay": 1409,
-    "timeWeek": 1425,
-    "timeMonth": 1499,
+    "timeDay": 1391,
+    "timeWeek": 1430,
+    "timeMonth": 1500,
     "timeYear": 1437,
     "dailyMinutesDown": {
-      "2024-12-29": 2,
+      "2024-12-30": 375,
+      "2024-12-29": 347,
       "2024-12-21": 479,
       "2024-12-06": 60,
       "2024-10-03": 57,
@@ -42,8 +43,7 @@
       "2024-01-16": 63,
       "2024-01-09": 237,
       "2024-01-02": 427,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1052,
-    "timeDay": 1080,
-    "timeWeek": 1144,
-    "timeMonth": 1144,
-    "timeYear": 1054,
+    "time": 1053,
+    "timeDay": 1162,
+    "timeWeek": 1146,
+    "timeMonth": 1147,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2024-04-30": 175,
       "2024-04-18": 58,
@@ -77,19 +77,20 @@
     "url": "https://www.obs-saisons.fr/",
     "icon": "https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png",
     "slug": "observatoire-des-saisons",
-    "status": "down",
-    "uptime": "97.81%",
-    "uptimeDay": "95.15%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "97.43%",
+    "status": "up",
+    "uptime": "97.77%",
+    "uptimeDay": "45.36%",
+    "uptimeWeek": "92.19%",
+    "uptimeMonth": "95.79%",
     "uptimeYear": "97.46%",
     "time": 1298,
-    "timeDay": 1276,
-    "timeWeek": 1322,
-    "timeMonth": 1317,
+    "timeDay": 1247,
+    "timeWeek": 1318,
+    "timeMonth": 1318,
     "timeYear": 1298,
     "dailyMinutesDown": {
-      "2024-12-29": 70,
+      "2024-12-30": 375,
+      "2024-12-29": 412,
       "2024-12-21": 933,
       "2024-12-13": 64,
       "2024-12-06": 60,
@@ -117,8 +118,7 @@
       "2024-01-16": 62,
       "2024-01-09": 237,
       "2024-01-02": 427,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -131,20 +131,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.91%",
     "time": 1303,
-    "timeDay": 1047,
-    "timeWeek": 1024,
-    "timeMonth": 1030,
-    "timeYear": 1303,
+    "timeDay": 1048,
+    "timeWeek": 1026,
+    "timeMonth": 1029,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2024-12-06": 60,
       "2024-08-05": 430,
       "2024-08-04": 469,
       "2024-01-29": 416,
       "2024-01-02": 427,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -157,11 +156,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.91%",
     "time": 890,
-    "timeDay": 915,
-    "timeWeek": 968,
-    "timeMonth": 895,
+    "timeDay": 940,
+    "timeWeek": 971,
+    "timeMonth": 897,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2024-12-06": 60,
@@ -169,8 +168,7 @@
       "2024-08-04": 469,
       "2024-01-29": 415,
       "2024-01-02": 428,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -178,19 +176,20 @@
     "url": "https://www.tela-botanica.org/service:annuaire:auth/",
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "annuaire-api",
-    "status": "down",
-    "uptime": "97.40%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "97.88%",
+    "status": "up",
+    "uptime": "97.36%",
+    "uptimeDay": "49.91%",
+    "uptimeWeek": "92.84%",
+    "uptimeMonth": "97.13%",
+    "uptimeYear": "97.87%",
     "time": 817,
-    "timeDay": 1254,
-    "timeWeek": 914,
-    "timeMonth": 866,
+    "timeDay": 898,
+    "timeWeek": 917,
+    "timeMonth": 867,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2024-12-29": 8,
+      "2024-12-30": 375,
+      "2024-12-29": 346,
       "2024-12-21": 479,
       "2024-12-06": 60,
       "2024-10-03": 56,
@@ -217,8 +216,7 @@
       "2024-01-16": 62,
       "2024-01-09": 237,
       "2024-01-02": 428,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -226,19 +224,20 @@
     "url": "https://www.tela-botanica.org/smartflore-services/trails",
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "smart-flore-api",
-    "status": "down",
-    "uptime": "97.30%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "97.96%",
+    "status": "up",
+    "uptime": "97.25%",
+    "uptimeDay": "49.94%",
+    "uptimeWeek": "92.85%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "97.95%",
     "time": 7575,
-    "timeDay": 7500,
-    "timeWeek": 7438,
-    "timeMonth": 7603,
+    "timeDay": 7472,
+    "timeWeek": 7455,
+    "timeMonth": 7608,
     "timeYear": 7578,
     "dailyMinutesDown": {
-      "2024-12-29": 8,
+      "2024-12-30": 375,
+      "2024-12-29": 346,
       "2024-12-21": 422,
       "2024-12-06": 59,
       "2024-10-03": 55,
@@ -260,8 +259,7 @@
       "2024-01-16": 62,
       "2024-01-09": 236,
       "2024-01-02": 428,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -270,7 +268,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "38.92%",
+    "uptime": "38.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -281,7 +279,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-29": 1103,
+      "2024-12-30": 383,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -644,8 +643,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   }
 ]
