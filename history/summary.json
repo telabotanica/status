@@ -10,10 +10,10 @@
     "uptimeWeek": "88.65%",
     "uptimeMonth": "94.65%",
     "uptimeYear": "98.52%",
-    "time": 1444,
-    "timeDay": 1515,
-    "timeWeek": 1489,
-    "timeMonth": 1527,
+    "time": 1443,
+    "timeDay": 1365,
+    "timeWeek": 1472,
+    "timeMonth": 1526,
     "timeYear": 1445,
     "dailyMinutesDown": {
       "2025-01-10": 375,
@@ -42,8 +42,7 @@
       "2024-03-13": 57,
       "2024-01-29": 417,
       "2024-01-24": 471,
-      "2024-01-22": 63,
-      "2024-01-16": 63
+      "2024-01-22": 63
     }
   },
   {
@@ -57,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1063,
-    "timeDay": 1113,
-    "timeWeek": 1156,
+    "time": 1064,
+    "timeDay": 1208,
+    "timeWeek": 1164,
     "timeMonth": 1154,
-    "timeYear": 1066,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2024-04-30": 175,
       "2024-04-18": 58,
@@ -78,15 +77,15 @@
     "icon": "https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png",
     "slug": "observatoire-des-saisons",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.44%",
     "uptimeMonth": "93.18%",
     "uptimeYear": "98.09%",
     "time": 1298,
-    "timeDay": 1206,
-    "timeWeek": 1203,
-    "timeMonth": 1296,
+    "timeDay": 1213,
+    "timeWeek": 1197,
+    "timeMonth": 1291,
     "timeYear": 1299,
     "dailyMinutesDown": {
       "2025-01-10": 432,
@@ -117,8 +116,7 @@
       "2024-03-13": 57,
       "2024-01-29": 416,
       "2024-01-24": 471,
-      "2024-01-22": 62,
-      "2024-01-16": 62
+      "2024-01-22": 62
     }
   },
   {
@@ -132,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1290,
-    "timeDay": 964,
-    "timeWeek": 983,
-    "timeMonth": 1027,
-    "timeYear": 1289,
+    "time": 1289,
+    "timeDay": 1087,
+    "timeWeek": 988,
+    "timeMonth": 1028,
+    "timeYear": 1288,
     "dailyMinutesDown": {
       "2024-12-06": 60,
       "2024-08-05": 430,
@@ -156,9 +154,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 890,
-    "timeDay": 887,
-    "timeWeek": 875,
-    "timeMonth": 908,
+    "timeDay": 814,
+    "timeWeek": 860,
+    "timeMonth": 904,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2024-12-06": 60,
@@ -179,9 +177,9 @@
     "uptimeMonth": "94.65%",
     "uptimeYear": "98.53%",
     "time": 820,
-    "timeDay": 768,
-    "timeWeek": 819,
-    "timeMonth": 869,
+    "timeDay": 808,
+    "timeWeek": 810,
+    "timeMonth": 868,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2025-01-10": 375,
@@ -211,8 +209,7 @@
       "2024-03-13": 56,
       "2024-01-29": 415,
       "2024-01-24": 469,
-      "2024-01-22": 62,
-      "2024-01-16": 62
+      "2024-01-22": 62
     }
   },
   {
@@ -221,16 +218,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "smart-flore-api",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.68%",
     "uptimeMonth": "94.79%",
     "uptimeYear": "98.61%",
     "time": 7576,
-    "timeDay": 7328,
-    "timeWeek": 7505,
-    "timeMonth": 7655,
-    "timeYear": 7582,
+    "timeDay": 7383,
+    "timeWeek": 7465,
+    "timeMonth": 7631,
+    "timeYear": 7581,
     "dailyMinutesDown": {
       "2025-01-10": 375,
       "2025-01-09": 422,
@@ -254,8 +251,7 @@
       "2024-03-13": 56,
       "2024-01-29": 414,
       "2024-01-24": 469,
-      "2024-01-22": 62,
-      "2024-01-16": 62
+      "2024-01-22": 62
     }
   },
   {
@@ -264,7 +260,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "38.34%",
+    "uptime": "38.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -275,7 +271,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 56,
+      "2025-01-15": 57,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -638,8 +635,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   }
 ]
