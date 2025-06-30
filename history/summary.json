@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.06%",
-    "uptimeYear": "97.58%",
-    "time": 1506,
-    "timeDay": 1462,
-    "timeWeek": 1519,
-    "timeMonth": 1573,
-    "timeYear": 1508,
+    "uptimeYear": "97.71%",
+    "time": 1509,
+    "timeDay": 2608,
+    "timeWeek": 1690,
+    "timeMonth": 1606,
+    "timeYear": 1511,
     "dailyMinutesDown": {
       "2025-06-11": 254,
       "2025-06-10": 109,
@@ -48,8 +48,7 @@
       "2024-07-29": 109,
       "2024-07-19": 60,
       "2024-07-02": 182,
-      "2024-07-01": 492,
-      "2024-06-30": 1440
+      "2024-07-01": 492
     }
   },
   {
@@ -64,9 +63,9 @@
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.93%",
     "time": 1163,
-    "timeDay": 1328,
-    "timeWeek": 1233,
-    "timeMonth": 1217,
+    "timeDay": 1211,
+    "timeWeek": 1230,
+    "timeMonth": 1214,
     "timeYear": 1164,
     "dailyMinutesDown": {
       "2025-06-02": 119,
@@ -83,11 +82,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.66%",
-    "uptimeYear": "96.96%",
+    "uptimeYear": "97.21%",
     "time": 1327,
-    "timeDay": 1530,
-    "timeWeek": 1392,
-    "timeMonth": 1381,
+    "timeDay": 1334,
+    "timeWeek": 1389,
+    "timeMonth": 1377,
     "timeYear": 1329,
     "dailyMinutesDown": {
       "2025-06-11": 314,
@@ -125,8 +124,7 @@
       "2024-07-29": 109,
       "2024-07-17": 126,
       "2024-07-02": 492,
-      "2024-07-01": 905,
-      "2024-06-30": 1440
+      "2024-07-01": 905
     }
   },
   {
@@ -140,9 +138,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
-    "time": 1149,
-    "timeDay": 1028,
-    "timeWeek": 1054,
+    "time": 1148,
+    "timeDay": 1067,
+    "timeWeek": 1063,
     "timeMonth": 1064,
     "timeYear": 1143,
     "dailyMinutesDown": {
@@ -171,10 +169,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
     "time": 907,
-    "timeDay": 933,
-    "timeWeek": 914,
-    "timeMonth": 963,
-    "timeYear": 908,
+    "timeDay": 903,
+    "timeWeek": 918,
+    "timeMonth": 959,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-05-12": 62,
       "2025-05-05": 116,
@@ -198,12 +196,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "97.03%",
+    "uptimeYear": "97.17%",
     "time": 828,
-    "timeDay": 822,
-    "timeWeek": 892,
-    "timeMonth": 872,
-    "timeYear": 827,
+    "timeDay": 808,
+    "timeWeek": 882,
+    "timeMonth": 870,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2025-06-11": 254,
       "2025-06-10": 107,
@@ -242,8 +240,7 @@
       "2024-07-19": 60,
       "2024-07-17": 62,
       "2024-07-02": 181,
-      "2024-07-01": 493,
-      "2024-06-30": 1440
+      "2024-07-01": 493
     }
   },
   {
@@ -256,12 +253,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "97.64%",
-    "time": 7578,
-    "timeDay": 7299,
-    "timeWeek": 7248,
-    "timeMonth": 7359,
-    "timeYear": 7569,
+    "uptimeYear": "97.77%",
+    "time": 7577,
+    "timeDay": 7290,
+    "timeWeek": 7267,
+    "timeMonth": 7351,
+    "timeYear": 7568,
     "dailyMinutesDown": {
       "2025-06-11": 254,
       "2025-06-10": 107,
@@ -295,8 +292,7 @@
       "2024-07-30": 310,
       "2024-07-29": 107,
       "2024-07-02": 118,
-      "2024-07-01": 493,
-      "2024-06-30": 1440
+      "2024-07-01": 493
     }
   },
   {
@@ -305,7 +301,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "33.05%",
+    "uptime": "33.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -316,7 +312,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 74,
+      "2025-06-30": 74,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -679,8 +676,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   }
 ]
