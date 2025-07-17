@@ -5,14 +5,14 @@
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
     "status": "up",
-    "uptime": "96.83%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.10%",
-    "time": 1514,
-    "timeDay": 1677,
-    "timeWeek": 1524,
+    "time": 1513,
+    "timeDay": 1425,
+    "timeWeek": 1500,
     "timeMonth": 1583,
     "timeYear": 1515,
     "dailyMinutesDown": {
@@ -61,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1170,
-    "timeDay": 1261,
-    "timeWeek": 1251,
-    "timeMonth": 1231,
+    "timeDay": 1198,
+    "timeWeek": 1232,
+    "timeMonth": 1227,
     "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-06-02": 119,
@@ -81,10 +81,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.74%",
-    "time": 1334,
-    "timeDay": 1409,
-    "timeWeek": 1357,
-    "timeMonth": 1380,
+    "time": 1333,
+    "timeDay": 1246,
+    "timeWeek": 1348,
+    "timeMonth": 1376,
     "timeYear": 1335,
     "dailyMinutesDown": {
       "2025-06-11": 314,
@@ -119,8 +119,7 @@
       "2024-09-13": 41,
       "2024-08-04": 120,
       "2024-07-30": 310,
-      "2024-07-29": 109,
-      "2024-07-17": 126
+      "2024-07-29": 109
     }
   },
   {
@@ -134,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
-    "time": 1133,
-    "timeDay": 1084,
-    "timeWeek": 1085,
-    "timeMonth": 1061,
-    "timeYear": 1129,
+    "time": 1131,
+    "timeDay": 1044,
+    "timeWeek": 1080,
+    "timeMonth": 1060,
+    "timeYear": 1128,
     "dailyMinutesDown": {
       "2025-05-12": 63,
       "2025-05-05": 116,
@@ -159,16 +158,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "cel-api",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
-    "time": 912,
-    "timeDay": 1036,
-    "timeWeek": 1007,
-    "timeMonth": 951,
-    "timeYear": 912,
+    "time": 913,
+    "timeDay": 1440,
+    "timeWeek": 1079,
+    "timeMonth": 968,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2025-05-12": 62,
       "2025-05-05": 116,
@@ -194,9 +193,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.55%",
     "time": 827,
-    "timeDay": 910,
-    "timeWeek": 905,
-    "timeMonth": 879,
+    "timeDay": 927,
+    "timeWeek": 913,
+    "timeMonth": 883,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2025-06-11": 254,
@@ -233,8 +232,7 @@
       "2024-08-04": 119,
       "2024-07-30": 310,
       "2024-07-29": 108,
-      "2024-07-19": 60,
-      "2024-07-17": 62
+      "2024-07-19": 60
     }
   },
   {
@@ -248,11 +246,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.15%",
-    "time": 7546,
-    "timeDay": 7395,
-    "timeWeek": 7371,
-    "timeMonth": 7320,
-    "timeYear": 7536,
+    "time": 7542,
+    "timeDay": 7329,
+    "timeWeek": 7374,
+    "timeMonth": 7325,
+    "timeYear": 7534,
     "dailyMinutesDown": {
       "2025-06-11": 254,
       "2025-06-10": 107,
@@ -293,7 +291,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "32.59%",
+    "uptime": "32.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -304,7 +302,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-16": 71,
+      "2025-07-17": 71,
+      "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -667,8 +666,7 @@
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
-      "2024-07-18": 1440,
-      "2024-07-17": 1440
+      "2024-07-18": 1440
     }
   }
 ]
