@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.15%",
     "time": 1516,
-    "timeDay": 1463,
-    "timeWeek": 1596,
-    "timeMonth": 1587,
+    "timeDay": 1502,
+    "timeWeek": 1574,
+    "timeMonth": 1550,
     "timeYear": 1517,
     "dailyMinutesDown": {
       "2025-06-11": 254,
@@ -43,8 +43,7 @@
       "2024-10-03": 57,
       "2024-09-27": 60,
       "2024-09-13": 83,
-      "2024-08-04": 121,
-      "2024-07-30": 310
+      "2024-08-04": 121
     }
   },
   {
@@ -58,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1172,
-    "timeDay": 1278,
-    "timeWeek": 1229,
-    "timeMonth": 1237,
+    "time": 1173,
+    "timeDay": 1156,
+    "timeWeek": 1206,
+    "timeMonth": 1235,
     "timeYear": 1173,
     "dailyMinutesDown": {
       "2025-06-02": 119,
@@ -78,11 +77,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.77%",
+    "uptimeYear": "97.80%",
     "time": 1335,
-    "timeDay": 1280,
-    "timeWeek": 1344,
-    "timeMonth": 1362,
+    "timeDay": 1322,
+    "timeWeek": 1340,
+    "timeMonth": 1361,
     "timeYear": 1334,
     "dailyMinutesDown": {
       "2025-06-11": 314,
@@ -115,8 +114,7 @@
       "2024-10-03": 56,
       "2024-09-27": 60,
       "2024-09-13": 41,
-      "2024-08-04": 120,
-      "2024-07-30": 310
+      "2024-08-04": 120
     }
   },
   {
@@ -125,16 +123,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "e-flore-api",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
-    "time": 1124,
-    "timeDay": 1078,
-    "timeWeek": 1215,
-    "timeMonth": 1117,
-    "timeYear": 1119,
+    "time": 1123,
+    "timeDay": 1028,
+    "timeWeek": 1213,
+    "timeMonth": 1116,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2025-05-12": 63,
       "2025-05-05": 116,
@@ -160,10 +158,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.04%",
-    "time": 915,
-    "timeDay": 929,
-    "timeWeek": 953,
-    "timeMonth": 975,
+    "time": 914,
+    "timeDay": 871,
+    "timeWeek": 939,
+    "timeMonth": 974,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2025-05-12": 62,
@@ -188,11 +186,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.61%",
     "time": 828,
-    "timeDay": 894,
-    "timeWeek": 885,
-    "timeMonth": 897,
+    "timeDay": 1004,
+    "timeWeek": 900,
+    "timeMonth": 903,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2025-06-11": 254,
@@ -226,8 +224,7 @@
       "2024-10-03": 56,
       "2024-09-27": 59,
       "2024-09-13": 41,
-      "2024-08-04": 119,
-      "2024-07-30": 310
+      "2024-08-04": 119
     }
   },
   {
@@ -240,12 +237,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.15%",
-    "time": 7528,
-    "timeDay": 8637,
-    "timeWeek": 8119,
-    "timeMonth": 7657,
-    "timeYear": 7515,
+    "uptimeYear": "98.18%",
+    "time": 7526,
+    "timeDay": 7499,
+    "timeWeek": 8121,
+    "timeMonth": 7664,
+    "timeYear": 7513,
     "dailyMinutesDown": {
       "2025-06-11": 254,
       "2025-06-10": 107,
@@ -275,8 +272,7 @@
       "2024-12-06": 59,
       "2024-10-03": 55,
       "2024-09-27": 59,
-      "2024-08-04": 119,
-      "2024-07-30": 310
+      "2024-08-04": 119
     }
   },
   {
@@ -285,7 +281,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "32.25%",
+    "uptime": "32.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -296,7 +292,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 83,
+      "2025-07-30": 76,
+      "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -659,8 +656,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1440,
-      "2024-07-30": 1440
+      "2024-07-31": 1440
     }
   }
 ]
