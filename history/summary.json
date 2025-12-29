@@ -11,9 +11,9 @@
     "uptimeMonth": "98.59%",
     "uptimeYear": "96.18%",
     "time": 1520,
-    "timeDay": 1322,
-    "timeWeek": 1422,
-    "timeMonth": 1566,
+    "timeDay": 1475,
+    "timeWeek": 1424,
+    "timeMonth": 1563,
     "timeYear": 1522,
     "dailyMinutesDown": {
       "2025-12-23": 58,
@@ -76,8 +76,7 @@
       "2025-01-10": 375,
       "2025-01-09": 423,
       "2025-01-08": 346,
-      "2024-12-30": 375,
-      "2024-12-29": 347
+      "2024-12-30": 375
     }
   },
   {
@@ -86,18 +85,19 @@
     "icon": "https://web.archive.org/web/20220206151548im_/https://mooc.tela-botanica.org/pluginfile.php/1/theme_telaformation/favicon/1643821402/favicon_plateforme.png",
     "slug": "plateforme-tela-formation",
     "status": "down",
-    "uptime": "95.93%",
+    "uptime": "95.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.93%",
-    "time": 1185,
+    "uptimeYear": "84.66%",
+    "time": 1184,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2025-12-28": 71,
+      "2025-12-29": 69,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -171,9 +171,9 @@
     "uptimeMonth": "98.73%",
     "uptimeYear": "95.23%",
     "time": 1376,
-    "timeDay": 1350,
-    "timeWeek": 1444,
-    "timeMonth": 1504,
+    "timeDay": 1416,
+    "timeWeek": 1437,
+    "timeMonth": 1499,
     "timeYear": 1377,
     "dailyMinutesDown": {
       "2025-12-23": 58,
@@ -240,8 +240,7 @@
       "2025-01-10": 432,
       "2025-01-09": 423,
       "2025-01-08": 411,
-      "2024-12-30": 375,
-      "2024-12-29": 412
+      "2024-12-30": 375
     }
   },
   {
@@ -255,10 +254,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.02%",
-    "time": 1070,
-    "timeDay": 1053,
-    "timeWeek": 1077,
-    "timeMonth": 1120,
+    "time": 1071,
+    "timeDay": 1063,
+    "timeWeek": 1078,
+    "timeMonth": 1119,
     "timeYear": 1072,
     "dailyMinutesDown": {
       "2025-12-13": 64,
@@ -299,7 +298,7 @@
     "uptimeYear": "99.03%",
     "time": 944,
     "timeDay": 968,
-    "timeWeek": 1005,
+    "timeWeek": 995,
     "timeMonth": 1032,
     "timeYear": 944,
     "dailyMinutesDown": {
@@ -333,15 +332,15 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "annuaire-api",
     "status": "up",
-    "uptime": "97.17%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "95.66%",
     "time": 865,
-    "timeDay": 910,
-    "timeWeek": 884,
-    "timeMonth": 925,
+    "timeDay": 1001,
+    "timeWeek": 875,
+    "timeMonth": 931,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2025-12-23": 57,
@@ -407,8 +406,7 @@
       "2025-01-10": 375,
       "2025-01-09": 422,
       "2025-01-08": 345,
-      "2024-12-30": 375,
-      "2024-12-29": 346
+      "2024-12-30": 375
     }
   },
   {
@@ -422,11 +420,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "96.24%",
-    "time": 7847,
-    "timeDay": 8116,
-    "timeWeek": 8059,
-    "timeMonth": 8282,
-    "timeYear": 7852,
+    "time": 7848,
+    "timeDay": 8498,
+    "timeWeek": 8124,
+    "timeMonth": 8276,
+    "timeYear": 7855,
     "dailyMinutesDown": {
       "2025-12-23": 57,
       "2025-12-19": 76,
@@ -489,8 +487,7 @@
       "2025-01-10": 375,
       "2025-01-09": 422,
       "2025-01-08": 344,
-      "2024-12-30": 375,
-      "2024-12-29": 346
+      "2024-12-30": 375
     }
   },
   {
@@ -499,7 +496,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "28.71%",
+    "uptime": "28.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -510,7 +507,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-28": 83,
+      "2025-12-29": 81,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -873,8 +871,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   }
 ]
