@@ -5,16 +5,16 @@
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
     "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "95.89%",
+    "uptime": "98.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "96.97%",
     "time": 1508,
-    "timeDay": 1344,
-    "timeWeek": 1398,
-    "timeMonth": 1482,
-    "timeYear": 1510,
+    "timeDay": 1438,
+    "timeWeek": 1426,
+    "timeMonth": 1484,
+    "timeYear": 1509,
     "dailyMinutesDown": {
       "2026-04-03": 59,
       "2026-03-21": 55,
@@ -82,8 +82,7 @@
       "2025-04-12": 53,
       "2025-04-11": 466,
       "2025-04-07": 432,
-      "2025-04-06": 480,
-      "2025-04-05": 701
+      "2025-04-06": 480
     }
   },
   {
@@ -92,18 +91,19 @@
     "icon": "https://web.archive.org/web/20220206151548im_/https://mooc.tela-botanica.org/pluginfile.php/1/theme_telaformation/favicon/1643821402/favicon_plateforme.png",
     "slug": "plateforme-tela-formation",
     "status": "down",
-    "uptime": "89.65%",
+    "uptime": "89.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.36%",
+    "uptimeYear": "58.08%",
     "time": 1191,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2026-04-04": 82,
+      "2026-04-05": 104,
+      "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
@@ -269,14 +269,14 @@
     "slug": "observatoire-des-saisons",
     "status": "up",
     "uptime": "98.33%",
-    "uptimeDay": "95.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "97.32%",
     "uptimeYear": "95.87%",
     "time": 1401,
-    "timeDay": 1451,
-    "timeWeek": 1430,
-    "timeMonth": 1465,
+    "timeDay": 1460,
+    "timeWeek": 1434,
+    "timeMonth": 1469,
     "timeYear": 1400,
     "dailyMinutesDown": {
       "2026-04-03": 59,
@@ -351,8 +351,7 @@
       "2025-04-12": 53,
       "2025-04-11": 526,
       "2025-04-07": 432,
-      "2025-04-06": 657,
-      "2025-04-05": 947
+      "2025-04-06": 657
     }
   },
   {
@@ -362,14 +361,14 @@
     "slug": "e-flore-api",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "95.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.58%",
     "time": 1085,
-    "timeDay": 997,
-    "timeWeek": 1024,
-    "timeMonth": 1085,
+    "timeDay": 991,
+    "timeWeek": 1031,
+    "timeMonth": 1078,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2026-04-03": 58,
@@ -415,14 +414,14 @@
     "slug": "cel-api",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "95.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.58%",
     "time": 969,
-    "timeDay": 912,
-    "timeWeek": 915,
-    "timeMonth": 989,
+    "timeDay": 962,
+    "timeWeek": 927,
+    "timeMonth": 990,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2026-04-03": 58,
@@ -468,14 +467,14 @@
     "slug": "annuaire-api",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "96.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "96.67%",
     "time": 889,
-    "timeDay": 934,
-    "timeWeek": 879,
-    "timeMonth": 867,
+    "timeDay": 938,
+    "timeWeek": 872,
+    "timeMonth": 870,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2026-04-03": 57,
@@ -546,8 +545,7 @@
       "2025-04-12": 53,
       "2025-04-11": 465,
       "2025-04-07": 432,
-      "2025-04-06": 480,
-      "2025-04-05": 700
+      "2025-04-06": 480
     }
   },
   {
@@ -557,15 +555,15 @@
     "slug": "smart-flore-api",
     "status": "up",
     "uptime": "97.46%",
-    "uptimeDay": "96.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "97.01%",
-    "time": 8165,
-    "timeDay": 9132,
-    "timeWeek": 8809,
-    "timeMonth": 9058,
-    "timeYear": 8178,
+    "time": 8170,
+    "timeDay": 9375,
+    "timeWeek": 8950,
+    "timeMonth": 9087,
+    "timeYear": 8181,
     "dailyMinutesDown": {
       "2026-04-03": 57,
       "2026-03-21": 52,
@@ -634,8 +632,7 @@
       "2025-04-12": 53,
       "2025-04-11": 464,
       "2025-04-07": 432,
-      "2025-04-06": 480,
-      "2025-04-05": 700
+      "2025-04-06": 480
     }
   },
   {
@@ -644,7 +641,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "26.83%",
+    "uptime": "26.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -655,7 +652,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-04": 95,
+      "2026-04-05": 118,
+      "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
@@ -1018,8 +1016,7 @@
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
-      "2025-04-06": 1440,
-      "2025-04-05": 1440
+      "2025-04-06": 1440
     }
   }
 ]
