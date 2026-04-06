@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "96.97%",
+    "uptimeYear": "97.12%",
     "time": 1508,
-    "timeDay": 1438,
-    "timeWeek": 1426,
-    "timeMonth": 1484,
+    "timeDay": 1602,
+    "timeWeek": 1465,
+    "timeMonth": 1477,
     "timeYear": 1509,
     "dailyMinutesDown": {
       "2026-04-03": 59,
@@ -81,8 +81,7 @@
       "2025-04-29": 60,
       "2025-04-12": 53,
       "2025-04-11": 466,
-      "2025-04-07": 432,
-      "2025-04-06": 480
+      "2025-04-07": 432
     }
   },
   {
@@ -91,18 +90,19 @@
     "icon": "https://web.archive.org/web/20220206151548im_/https://mooc.tela-botanica.org/pluginfile.php/1/theme_telaformation/favicon/1643821402/favicon_plateforme.png",
     "slug": "plateforme-tela-formation",
     "status": "down",
-    "uptime": "89.58%",
+    "uptime": "89.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.08%",
+    "uptimeYear": "57.81%",
     "time": 1191,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2026-04-05": 104,
+      "2026-04-06": 92,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -272,11 +272,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "97.32%",
-    "uptimeYear": "95.87%",
+    "uptimeYear": "96.07%",
     "time": 1401,
-    "timeDay": 1460,
-    "timeWeek": 1434,
-    "timeMonth": 1469,
+    "timeDay": 1440,
+    "timeWeek": 1452,
+    "timeMonth": 1471,
     "timeYear": 1400,
     "dailyMinutesDown": {
       "2026-04-03": 59,
@@ -350,8 +350,7 @@
       "2025-04-29": 59,
       "2025-04-12": 53,
       "2025-04-11": 526,
-      "2025-04-07": 432,
-      "2025-04-06": 657
+      "2025-04-07": 432
     }
   },
   {
@@ -365,10 +364,10 @@
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.58%",
-    "time": 1085,
-    "timeDay": 991,
-    "timeWeek": 1031,
-    "timeMonth": 1078,
+    "time": 1086,
+    "timeDay": 1203,
+    "timeWeek": 1061,
+    "timeMonth": 1083,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2026-04-03": 58,
@@ -418,11 +417,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.58%",
-    "time": 969,
-    "timeDay": 962,
-    "timeWeek": 927,
-    "timeMonth": 990,
-    "timeYear": 971,
+    "time": 971,
+    "timeDay": 953,
+    "timeWeek": 947,
+    "timeMonth": 989,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2026-04-03": 58,
       "2026-03-21": 53,
@@ -470,11 +469,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "96.67%",
+    "uptimeYear": "96.82%",
     "time": 889,
-    "timeDay": 938,
-    "timeWeek": 872,
-    "timeMonth": 870,
+    "timeDay": 860,
+    "timeWeek": 879,
+    "timeMonth": 873,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2026-04-03": 57,
@@ -544,8 +543,7 @@
       "2025-04-29": 58,
       "2025-04-12": 53,
       "2025-04-11": 465,
-      "2025-04-07": 432,
-      "2025-04-06": 480
+      "2025-04-07": 432
     }
   },
   {
@@ -558,12 +556,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "98.82%",
-    "uptimeYear": "97.01%",
-    "time": 8170,
-    "timeDay": 9375,
-    "timeWeek": 8950,
-    "timeMonth": 9087,
-    "timeYear": 8181,
+    "uptimeYear": "97.16%",
+    "time": 8173,
+    "timeDay": 8844,
+    "timeWeek": 9012,
+    "timeMonth": 9078,
+    "timeYear": 8183,
     "dailyMinutesDown": {
       "2026-04-03": 57,
       "2026-03-21": 52,
@@ -631,8 +629,7 @@
       "2025-04-29": 57,
       "2025-04-12": 53,
       "2025-04-11": 464,
-      "2025-04-07": 432,
-      "2025-04-06": 480
+      "2025-04-07": 432
     }
   },
   {
@@ -641,7 +638,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "26.81%",
+    "uptime": "26.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -652,7 +649,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-05": 118,
+      "2026-04-06": 106,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -1015,8 +1013,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   }
 ]
