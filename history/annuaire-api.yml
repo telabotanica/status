@@ -1,7 +1,7 @@
 url: https://www.tela-botanica.org/service:annuaire:auth/
-status: down
-code: 500
-responseTime: 23786
-lastUpdated: 2026-05-16T23:42:32.127Z
+status: up
+code: 200
+responseTime: 770
+lastUpdated: 2026-05-17T02:08:42.498Z
 startTime: 2022-03-14T10:45:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
