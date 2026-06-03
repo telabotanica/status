@@ -1,7 +1,7 @@
 url: https://www.tela-botanica.org
-status: up
-code: 200
-responseTime: 1856
-lastUpdated: 2026-06-03T02:50:53.325Z
+status: down
+code: 500
+responseTime: 284
+lastUpdated: 2026-06-03T04:44:09.438Z
 startTime: 2022-03-14T10:45:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
