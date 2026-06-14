@@ -4,16 +4,16 @@
     "url": "https://www.tela-botanica.org",
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "74.19%",
-    "uptimeWeek": "85.61%",
-    "uptimeMonth": "92.94%",
-    "uptimeYear": "96.74%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "72.14%",
+    "uptimeWeek": "85.31%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "96.73%",
     "time": 1531,
     "timeDay": 1415,
     "timeWeek": 1546,
-    "timeMonth": 1937,
+    "timeMonth": 1939,
     "timeYear": 1530,
     "dailyMinutesDown": {
       "2025-08-20": 59,
@@ -94,7 +94,7 @@
       "2026-06-10": 453,
       "2026-06-11": 8,
       "2026-06-13": 169,
-      "2026-06-14": 312
+      "2026-06-14": 342
     }
   },
   {
@@ -107,7 +107,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.75%",
+    "uptimeYear": "38.73%",
     "time": 1175,
     "timeDay": 0,
     "timeWeek": 0,
@@ -116,7 +116,7 @@
     "dailyMinutesDown": {
       "2025-09-19": 115,
       "2025-10-04": 55,
-      "2026-06-14": 1267,
+      "2026-06-14": 1369,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -347,16 +347,16 @@
     "url": "https://www.obs-saisons.fr/",
     "icon": "https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png",
     "slug": "observatoire-des-saisons",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "75.53%",
-    "uptimeWeek": "86.08%",
-    "uptimeMonth": "93.30%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "73.55%",
+    "uptimeWeek": "85.80%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "95.76%",
     "time": 1431,
     "timeDay": 1396,
     "timeWeek": 1536,
-    "timeMonth": 1824,
+    "timeMonth": 1826,
     "timeYear": 1432,
     "dailyMinutesDown": {
       "2025-08-20": 59,
@@ -443,7 +443,7 @@
       "2026-06-10": 443,
       "2026-06-11": 9,
       "2026-06-13": 159,
-      "2026-06-14": 297
+      "2026-06-14": 325
     }
   },
   {
@@ -451,16 +451,16 @@
     "url": "https://api.tela-botanica.org/service:eflore:0.1/bdtfx/taxons/",
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "e-flore-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "76.87%",
-    "uptimeWeek": "86.56%",
-    "uptimeMonth": "93.98%",
-    "uptimeYear": "99.00%",
+    "uptimeDay": "75.09%",
+    "uptimeWeek": "86.31%",
+    "uptimeMonth": "93.92%",
+    "uptimeYear": "98.99%",
     "time": 1106,
     "timeDay": 876,
     "timeWeek": 1007,
-    "timeMonth": 1304,
+    "timeMonth": 1305,
     "timeYear": 1106,
     "dailyMinutesDown": {
       "2025-08-26": 54,
@@ -508,7 +508,7 @@
       "2026-06-10": 433,
       "2026-06-11": 9,
       "2026-06-13": 149,
-      "2026-06-14": 283
+      "2026-06-14": 309
     }
   },
   {
@@ -516,16 +516,16 @@
     "url": "https://api-cel.tela-botanica.org/api/",
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "cel-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "78.21%",
-    "uptimeWeek": "87.04%",
-    "uptimeMonth": "94.20%",
+    "uptimeDay": "76.64%",
+    "uptimeWeek": "86.82%",
+    "uptimeMonth": "94.15%",
     "uptimeYear": "99.02%",
     "time": 1055,
     "timeDay": 1102,
     "timeWeek": 1724,
-    "timeMonth": 2161,
+    "timeMonth": 2166,
     "timeYear": 1056,
     "dailyMinutesDown": {
       "2025-08-26": 54,
@@ -573,7 +573,7 @@
       "2026-06-10": 424,
       "2026-06-11": 9,
       "2026-06-13": 140,
-      "2026-06-14": 269
+      "2026-06-14": 292
     }
   },
   {
@@ -581,16 +581,16 @@
     "url": "https://www.tela-botanica.org/service:annuaire:auth/",
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "annuaire-api",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "79.56%",
-    "uptimeWeek": "87.52%",
-    "uptimeMonth": "93.63%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "78.19%",
+    "uptimeWeek": "87.33%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "96.88%",
     "time": 934,
     "timeDay": 1044,
     "timeWeek": 1137,
-    "timeMonth": 1374,
+    "timeMonth": 1375,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2025-08-20": 59,
@@ -670,7 +670,7 @@
       "2026-06-10": 415,
       "2026-06-11": 9,
       "2026-06-13": 130,
-      "2026-06-14": 255
+      "2026-06-14": 275
     }
   },
   {
@@ -678,16 +678,16 @@
     "url": "https://www.tela-botanica.org/smartflore-services/trails",
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "smart-flore-api",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "80.89%",
-    "uptimeWeek": "88.00%",
-    "uptimeMonth": "92.54%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "79.73%",
+    "uptimeWeek": "87.83%",
+    "uptimeMonth": "92.50%",
     "uptimeYear": "96.86%",
     "time": 8462,
     "timeDay": 2148,
     "timeWeek": 2635,
-    "timeMonth": 8655,
+    "timeMonth": 8652,
     "timeYear": 8478,
     "dailyMinutesDown": {
       "2025-08-26": 53,
@@ -765,7 +765,7 @@
       "2026-06-10": 406,
       "2026-06-11": 9,
       "2026-06-13": 120,
-      "2026-06-14": 240
+      "2026-06-14": 257
     }
   },
   {
@@ -774,7 +774,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tela-botanica.no-ip.org.ico",
     "slug": "serveur-adansonia",
     "status": "down",
-    "uptime": "25.59%",
+    "uptime": "25.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -785,7 +785,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 1280,
+      "2026-06-14": 1381,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
