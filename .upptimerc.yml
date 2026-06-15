@@ -10,13 +10,13 @@ sites:
       - kstefanini
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
-  - name: Plateforme Tela Formation
-    url: https://mooc.tela-botanica.org
-    icon: https://web.archive.org/web/20220206151548im_/https://mooc.tela-botanica.org/pluginfile.php/1/theme_telaformation/favicon/1643821402/favicon_plateforme.png
-    assignees:
-      - kstefanini
-    headers:
-      - "User-Agent: Upptime bot / github.com/telabotanica/status"
+#  - name: Plateforme Tela Formation
+#    url: https://mooc.tela-botanica.org
+#    icon: https://web.archive.org/web/20220206151548im_/https://mooc.tela-botanica.org/pluginfile.php/1/theme_telaformation/favicon/1643821402/favicon_plateforme.png
+#    assignees:
+#      - kstefanini
+#    headers:
+#      - "User-Agent: Upptime bot / github.com/telabotanica/status"
   - name: Observatoire des Saisons
     url: https://www.obs-saisons.fr/
     icon: https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png
@@ -52,15 +52,15 @@ sites:
       - kstefanini
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
-  - name: Serveur Adansonia
-    url: http://tela-botanica.no-ip.org/
-    assignees:
-      - kstefanini
-      - CDelph
-      - verovs
-      - ya-web
-    headers:
-      - "User-Agent: Upptime bot / github.com/telabotanica/status"
+#  - name: Serveur Adansonia
+#    url: http://tela-botanica.no-ip.org/
+#    assignees:
+#      - kstefanini
+#      - CDelph
+#      - verovs
+#      - ya-web
+#    headers:
+#      - "User-Agent: Upptime bot / github.com/telabotanica/status"
 
 workflowSchedule:
   graphs: "0 * * * *" # (default: "0 0 * * *")
@@ -84,8 +84,8 @@ status-website:
   navbar:
     - title: Site web de Tela Botanica
       href: https://www.tela-botanica.org
-    - title: Plateforme Tela Formation
-      href: https://mooc.tela-botanica.org
+#    - title: Plateforme Tela Formation
+#      href: https://mooc.tela-botanica.org
 
 i18n:
   activeIncidents: Active Incidents
