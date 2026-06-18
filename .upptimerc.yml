@@ -26,30 +26,37 @@ sites:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
   - name: eFlore API
     url: https://api.tela-botanica.org/service:eflore:0.1/bdtfx/taxons/
-    icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
+    icon: https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico
     assignees:
       - CDelph
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
   - name: CEL API
     url: https://api-cel.tela-botanica.org/api/
-    icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
+    icon: https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico
     assignees:
       - kstefanini
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
   - name: Annuaire API
     url: https://www.tela-botanica.org/service:annuaire:auth/
-    icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
+    icon: https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico
     assignees:
       - kstefanini
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
   - name: Smart'Flore API
     url: https://www.tela-botanica.org/smartflore-services/trails
-    icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
+    icon: https://www.tela-botanica.org/smart-form/favicon.ico
     assignees:
       - kstefanini
+    headers:
+      - "User-Agent: Upptime bot / github.com/telabotanica/status"
+  - name: Identiplante API
+    url: https://api-ip.tela-botanica.org/observations
+    icon: https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico
+    assignees:
+      - julianomatt77
     headers:
       - "User-Agent: Upptime bot / github.com/telabotanica/status"
 #  - name: Serveur Adansonia
