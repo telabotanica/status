@@ -5,15 +5,15 @@
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "89.07%",
-    "uptimeWeek": "83.39%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "96.43%",
+    "uptime": "99.15%",
+    "uptimeDay": "83.87%",
+    "uptimeWeek": "83.34%",
+    "uptimeMonth": "89.58%",
+    "uptimeYear": "96.42%",
     "time": 1530,
-    "timeDay": 1356,
+    "timeDay": 1352,
     "timeWeek": 1481,
-    "timeMonth": 1818,
+    "timeMonth": 1811,
     "timeYear": 1530,
     "dailyMinutesDown": {
       "2025-08-20": 59,
@@ -100,7 +100,7 @@
       "2026-06-17": 9,
       "2026-06-18": 316,
       "2026-06-20": 142,
-      "2026-06-21": 157
+      "2026-06-21": 232
     }
   },
   {
@@ -108,15 +108,15 @@
     "url": "https://www.obs-saisons.fr/",
     "icon": "https://web.archive.org/web/20220218121914im_/https://www.obs-saisons.fr/media/favicon/favicon-32x32.png",
     "slug": "observatoire-des-saisons",
-    "status": "down",
+    "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "89.61%",
-    "uptimeWeek": "83.87%",
-    "uptimeMonth": "90.06%",
-    "uptimeYear": "95.49%",
+    "uptimeDay": "84.54%",
+    "uptimeWeek": "83.82%",
+    "uptimeMonth": "89.90%",
+    "uptimeYear": "95.47%",
     "time": 1433,
-    "timeDay": 1479,
-    "timeWeek": 1474,
+    "timeDay": 1504,
+    "timeWeek": 1475,
     "timeMonth": 1706,
     "timeYear": 1434,
     "dailyMinutesDown": {
@@ -208,7 +208,7 @@
       "2026-06-17": 9,
       "2026-06-18": 311,
       "2026-06-20": 137,
-      "2026-06-21": 149
+      "2026-06-21": 222
     }
   },
   {
@@ -216,15 +216,15 @@
     "url": "https://api.tela-botanica.org/service:eflore:0.1/bdtfx/taxons/",
     "icon": "https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico",
     "slug": "e-flore-api",
-    "status": "down",
+    "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "90.14%",
-    "uptimeWeek": "84.35%",
-    "uptimeMonth": "90.84%",
-    "uptimeYear": "98.71%",
+    "uptimeDay": "85.21%",
+    "uptimeWeek": "84.30%",
+    "uptimeMonth": "90.68%",
+    "uptimeYear": "98.70%",
     "time": 1105,
     "timeDay": 968,
-    "timeWeek": 968,
+    "timeWeek": 967,
     "timeMonth": 1247,
     "timeYear": 1106,
     "dailyMinutesDown": {
@@ -279,7 +279,7 @@
       "2026-06-17": 9,
       "2026-06-18": 306,
       "2026-06-20": 132,
-      "2026-06-21": 142
+      "2026-06-21": 213
     }
   },
   {
@@ -287,16 +287,16 @@
     "url": "https://api-cel.tela-botanica.org/api/",
     "icon": "https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico",
     "slug": "cel-api",
-    "status": "down",
+    "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "90.69%",
-    "uptimeWeek": "84.83%",
-    "uptimeMonth": "91.16%",
-    "uptimeYear": "98.74%",
-    "time": 1058,
-    "timeDay": 1329,
+    "uptimeDay": "85.88%",
+    "uptimeWeek": "84.78%",
+    "uptimeMonth": "91.00%",
+    "uptimeYear": "98.73%",
+    "time": 1059,
+    "timeDay": 1336,
     "timeWeek": 1327,
-    "timeMonth": 1976,
+    "timeMonth": 1977,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2025-08-26": 54,
@@ -350,7 +350,7 @@
       "2026-06-17": 9,
       "2026-06-18": 301,
       "2026-06-20": 128,
-      "2026-06-21": 134
+      "2026-06-21": 203
     }
   },
   {
@@ -358,15 +358,15 @@
     "url": "https://www.tela-botanica.org/service:annuaire:auth/",
     "icon": "https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico",
     "slug": "annuaire-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "91.23%",
-    "uptimeWeek": "85.31%",
-    "uptimeMonth": "91.01%",
-    "uptimeYear": "96.61%",
+    "uptimeDay": "86.55%",
+    "uptimeWeek": "85.26%",
+    "uptimeMonth": "90.86%",
+    "uptimeYear": "96.60%",
     "time": 936,
-    "timeDay": 1027,
-    "timeWeek": 1080,
+    "timeDay": 942,
+    "timeWeek": 1070,
     "timeMonth": 1174,
     "timeYear": 939,
     "dailyMinutesDown": {
@@ -453,7 +453,7 @@
       "2026-06-17": 9,
       "2026-06-18": 297,
       "2026-06-20": 123,
-      "2026-06-21": 127
+      "2026-06-21": 194
     }
   },
   {
@@ -461,17 +461,17 @@
     "url": "https://www.tela-botanica.org/smartflore-services/trails",
     "icon": "https://www.tela-botanica.org/smart-form/favicon.ico",
     "slug": "smart-flore-api",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "91.77%",
-    "uptimeWeek": "85.78%",
-    "uptimeMonth": "90.25%",
-    "uptimeYear": "96.60%",
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "87.22%",
+    "uptimeWeek": "85.74%",
+    "uptimeMonth": "90.10%",
+    "uptimeYear": "96.59%",
     "time": 8448,
-    "timeDay": 2320,
-    "timeWeek": 2343,
-    "timeMonth": 6711,
-    "timeYear": 8468,
+    "timeDay": 2356,
+    "timeWeek": 2340,
+    "timeMonth": 6676,
+    "timeYear": 8467,
     "dailyMinutesDown": {
       "2025-08-26": 53,
       "2025-08-28": 51,
@@ -554,7 +554,7 @@
       "2026-06-17": 9,
       "2026-06-18": 292,
       "2026-06-20": 118,
-      "2026-06-21": 119
+      "2026-06-21": 184
     }
   },
   {
@@ -562,21 +562,21 @@
     "url": "https://api-ip.tela-botanica.org/observations",
     "icon": "https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico",
     "slug": "identiplante-api",
-    "status": "down",
-    "uptime": "89.87%",
-    "uptimeDay": "92.30%",
-    "uptimeWeek": "89.87%",
-    "uptimeMonth": "89.87%",
-    "uptimeYear": "89.87%",
-    "time": 6930,
-    "timeDay": 7090,
-    "timeWeek": 6930,
-    "timeMonth": 6930,
-    "timeYear": 6930,
+    "status": "up",
+    "uptime": "88.77%",
+    "uptimeDay": "87.88%",
+    "uptimeWeek": "88.77%",
+    "uptimeMonth": "88.77%",
+    "uptimeYear": "88.77%",
+    "time": 6946,
+    "timeDay": 7158,
+    "timeWeek": 6946,
+    "timeMonth": 6946,
+    "timeYear": 6946,
     "dailyMinutesDown": {
       "2026-06-18": 287,
       "2026-06-20": 113,
-      "2026-06-21": 111
+      "2026-06-21": 174
     }
   }
 ]
