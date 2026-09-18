@@ -11,7 +11,7 @@
     "uptimeMonth": "97.33%",
     "uptimeYear": "93.46%",
     "time": 1572,
-    "timeDay": 2568,
+    "timeDay": 2718,
     "timeWeek": 2121,
     "timeMonth": 1986,
     "timeYear": 1572,
@@ -124,10 +124,10 @@
     "uptime": "95.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.06%",
+    "uptimeMonth": "43.08%",
     "uptimeYear": "81.70%",
     "time": 1375,
-    "timeDay": 1282,
+    "timeDay": 1247,
     "timeWeek": 1262,
     "timeMonth": 787,
     "timeYear": 1374,
@@ -438,9 +438,9 @@
     "slug": "annuaire-api",
     "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "96.70%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "96.68%",
     "uptimeYear": "93.61%",
     "time": 975,
     "timeDay": 912,
@@ -545,7 +545,7 @@
       "2026-09-10": 137,
       "2026-09-13": 120,
       "2026-09-14": 275,
-      "2026-09-18": 8
+      "2026-09-18": 18
     }
   },
   {
