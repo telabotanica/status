@@ -5,14 +5,14 @@
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
     "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "73.71%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "96.46%",
+    "uptime": "98.55%",
+    "uptimeDay": "72.95%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "96.44%",
     "uptimeYear": "93.45%",
     "time": 1578,
     "timeDay": 5326,
-    "timeWeek": 2548,
+    "timeWeek": 2570,
     "timeMonth": 2097,
     "timeYear": 1580,
     "dailyMinutesDown": {
@@ -113,7 +113,7 @@
       "2026-09-10": 151,
       "2026-09-13": 134,
       "2026-09-23": 233,
-      "2026-09-24": 147
+      "2026-09-24": 157
     }
   },
   {
@@ -125,11 +125,11 @@
     "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.78%",
+    "uptimeMonth": "62.81%",
     "uptimeYear": "81.83%",
     "time": 1374,
     "timeDay": 1353,
-    "timeWeek": 1456,
+    "timeWeek": 1455,
     "timeMonth": 1088,
     "timeYear": 1372,
     "dailyMinutesDown": {
@@ -443,9 +443,9 @@
     "slug": "annuaire-api",
     "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "62.83%",
-    "uptimeWeek": "93.75%",
-    "uptimeMonth": "95.43%",
+    "uptimeDay": "62.09%",
+    "uptimeWeek": "93.64%",
+    "uptimeMonth": "95.40%",
     "uptimeYear": "93.54%",
     "time": 979,
     "timeDay": 1420,
@@ -551,7 +551,7 @@
       "2026-09-13": 120,
       "2026-09-14": 275,
       "2026-09-18": 95,
-      "2026-09-24": 154,
+      "2026-09-24": 164,
       "2026-09-23": 382
     }
   },
@@ -562,9 +562,9 @@
     "slug": "smart-flore-api",
     "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "88.18%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "97.05%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "93.65%",
     "time": 7748,
     "timeDay": 8125,
@@ -667,7 +667,7 @@
       "2026-09-07": 610,
       "2026-09-10": 132,
       "2026-09-13": 115,
-      "2026-09-24": 155,
+      "2026-09-24": 166,
       "2026-09-23": 15
     }
   },
