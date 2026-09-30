@@ -6,14 +6,14 @@
     "slug": "site-web-de-tela-botanica",
     "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "79.47%",
-    "uptimeWeek": "86.07%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "93.46%",
+    "uptimeDay": "70.34%",
+    "uptimeWeek": "84.76%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "93.43%",
     "time": 1587,
-    "timeDay": 1177,
-    "timeWeek": 3043,
-    "timeMonth": 2243,
+    "timeDay": 1048,
+    "timeWeek": 3082,
+    "timeMonth": 2247,
     "timeYear": 1589,
     "dailyMinutesDown": {
       "2025-10-13": 375,
@@ -113,7 +113,7 @@
       "2026-09-24": 241,
       "2026-09-25": 636,
       "2026-09-29": 295,
-      "2026-09-30": 1
+      "2026-09-30": 132
     }
   },
   {
@@ -128,9 +128,9 @@
     "uptimeMonth": "97.98%",
     "uptimeYear": "98.15%",
     "time": 1108,
-    "timeDay": 1194,
-    "timeWeek": 1193,
-    "timeMonth": 1129,
+    "timeDay": 1142,
+    "timeWeek": 1189,
+    "timeMonth": 1128,
     "timeYear": 1109,
     "dailyMinutesDown": {
       "2025-10-02": 65,
@@ -210,8 +210,8 @@
     "uptimeMonth": "98.04%",
     "uptimeYear": "98.20%",
     "time": 1170,
-    "timeDay": 1537,
-    "timeWeek": 1656,
+    "timeDay": 1543,
+    "timeWeek": 1647,
     "timeMonth": 1579,
     "timeYear": 1174,
     "dailyMinutesDown": {
@@ -286,15 +286,15 @@
     "icon": "https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico",
     "slug": "annuaire-api",
     "status": "down",
-    "uptime": "98.56%",
-    "uptimeDay": "79.17%",
-    "uptimeWeek": "79.10%",
-    "uptimeMonth": "91.84%",
-    "uptimeYear": "93.44%",
+    "uptime": "98.55%",
+    "uptimeDay": "70.00%",
+    "uptimeWeek": "77.79%",
+    "uptimeMonth": "91.54%",
+    "uptimeYear": "93.42%",
     "time": 983,
-    "timeDay": 933,
-    "timeWeek": 1356,
-    "timeMonth": 1192,
+    "timeDay": 852,
+    "timeWeek": 1363,
+    "timeMonth": 1194,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2025-10-07": 31,
@@ -397,7 +397,7 @@
       "2026-09-23": 382,
       "2026-09-25": 631,
       "2026-09-29": 295,
-      "2026-09-30": 5
+      "2026-09-30": 137
     }
   },
   {
@@ -412,9 +412,9 @@
     "uptimeMonth": "94.97%",
     "uptimeYear": "93.47%",
     "time": 7714,
-    "timeDay": 2644,
-    "timeWeek": 3968,
-    "timeMonth": 3203,
+    "timeDay": 2520,
+    "timeWeek": 3993,
+    "timeMonth": 3202,
     "timeYear": 7701,
     "dailyMinutesDown": {
       "2025-10-02": 63,
@@ -529,9 +529,9 @@
     "uptimeMonth": "98.20%",
     "uptimeYear": "97.82%",
     "time": 6340,
-    "timeDay": 7454,
-    "timeWeek": 7933,
-    "timeMonth": 8120,
+    "timeDay": 7381,
+    "timeWeek": 7910,
+    "timeMonth": 8122,
     "timeYear": 6340,
     "dailyMinutesDown": {
       "2026-06-18": 287,
