@@ -6,10 +6,10 @@
     "slug": "site-web-de-tela-botanica",
     "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "93.77%",
-    "uptimeYear": "93.84%",
+    "uptimeDay": "87.84%",
+    "uptimeWeek": "90.31%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "93.81%",
     "time": 1600,
     "timeDay": 1386,
     "timeWeek": 3184,
@@ -113,7 +113,7 @@
       "2026-10-05": 85,
       "2026-10-04": 113,
       "2026-10-06": 365,
-      "2026-10-09": 1
+      "2026-10-09": 175
     }
   },
   {
@@ -399,16 +399,16 @@
     "icon": "https://www.tela-botanica.org/smart-form/favicon.ico",
     "slug": "smart-flore-api",
     "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "93.67%",
+    "uptime": "98.48%",
+    "uptimeDay": "87.47%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "93.64%",
     "time": 7670,
     "timeDay": 2679,
     "timeWeek": 3940,
     "timeMonth": 3493,
-    "timeYear": 7647,
+    "timeYear": 7646,
     "dailyMinutesDown": {
       "2025-10-12": 57,
       "2025-10-13": 374,
@@ -505,7 +505,7 @@
       "2026-09-24": 487,
       "2026-09-23": 15,
       "2026-09-25": 626,
-      "2026-10-09": 7
+      "2026-10-09": 180
     }
   },
   {
