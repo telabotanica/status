@@ -4,17 +4,17 @@
     "url": "https://www.tela-botanica.org",
     "icon": "https://www.tela-botanica.org/favicon.ico",
     "slug": "site-web-de-tela-botanica",
-    "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "87.84%",
-    "uptimeWeek": "90.31%",
-    "uptimeMonth": "93.37%",
-    "uptimeYear": "93.81%",
+    "status": "up",
+    "uptime": "98.64%",
+    "uptimeDay": "80.81%",
+    "uptimeWeek": "89.30%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "93.79%",
     "time": 1600,
-    "timeDay": 1386,
-    "timeWeek": 3184,
-    "timeMonth": 2527,
-    "timeYear": 1604,
+    "timeDay": 1365,
+    "timeWeek": 3119,
+    "timeMonth": 2519,
+    "timeYear": 1603,
     "dailyMinutesDown": {
       "2025-10-22": 120,
       "2025-10-23": 119,
@@ -113,7 +113,7 @@
       "2026-10-05": 85,
       "2026-10-04": 113,
       "2026-10-06": 365,
-      "2026-10-09": 175
+      "2026-10-09": 276
     }
   },
   {
@@ -398,17 +398,17 @@
     "url": "https://www.tela-botanica.org/smartflore-services/trails",
     "icon": "https://www.tela-botanica.org/smart-form/favicon.ico",
     "slug": "smart-flore-api",
-    "status": "down",
+    "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "87.47%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "93.64%",
-    "time": 7670,
-    "timeDay": 2679,
-    "timeWeek": 3940,
-    "timeMonth": 3493,
-    "timeYear": 7646,
+    "uptimeDay": "80.89%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "96.23%",
+    "uptimeYear": "93.62%",
+    "time": 7669,
+    "timeDay": 2504,
+    "timeWeek": 3878,
+    "timeMonth": 3488,
+    "timeYear": 7644,
     "dailyMinutesDown": {
       "2025-10-12": 57,
       "2025-10-13": 374,
@@ -505,7 +505,7 @@
       "2026-09-24": 487,
       "2026-09-23": 15,
       "2026-09-25": 626,
-      "2026-10-09": 180
+      "2026-10-09": 275
     }
   },
   {
@@ -522,7 +522,7 @@
     "time": 6395,
     "timeDay": 7796,
     "timeWeek": 8267,
-    "timeMonth": 8063,
+    "timeMonth": 8067,
     "timeYear": 6395,
     "dailyMinutesDown": {
       "2026-06-18": 287,
