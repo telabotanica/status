@@ -397,9 +397,9 @@
     "slug": "smart-flore-api",
     "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "96.52%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "93.67%",
     "time": 7638,
     "timeDay": 1787,
@@ -501,7 +501,7 @@
       "2026-09-23": 15,
       "2026-09-25": 626,
       "2026-10-09": 275,
-      "2026-10-13": 7
+      "2026-10-13": 15
     }
   },
   {
