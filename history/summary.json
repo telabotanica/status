@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "98.64%",
     "uptimeDay": "73.94%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "90.85%",
+    "uptimeWeek": "89.27%",
+    "uptimeMonth": "90.83%",
     "uptimeYear": "93.76%",
     "time": 1604,
     "timeDay": 2551,
@@ -115,7 +115,7 @@
       "2026-10-13": 24,
       "2026-10-17": 375,
       "2026-10-16": 47,
-      "2026-10-18": 135
+      "2026-10-18": 143
     }
   },
   {
@@ -280,9 +280,9 @@
     "status": "down",
     "uptime": "98.54%",
     "uptimeDay": "93.74%",
-    "uptimeWeek": "92.23%",
-    "uptimeMonth": "92.16%",
-    "uptimeYear": "93.31%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "93.30%",
     "time": 1010,
     "timeDay": 3866,
     "timeWeek": 1655,
@@ -390,7 +390,7 @@
       "2026-10-13": 19,
       "2026-10-17": 224,
       "2026-10-16": 42,
-      "2026-10-18": 5
+      "2026-10-18": 13
     }
   },
   {
@@ -400,14 +400,14 @@
     "slug": "smart-flore-api",
     "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "92.23%",
-    "uptimeMonth": "95.01%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "94.99%",
     "uptimeYear": "93.56%",
     "time": 7595,
     "timeDay": 2588,
     "timeWeek": 2756,
-    "timeMonth": 3414,
+    "timeMonth": 3306,
     "timeYear": 7568,
     "dailyMinutesDown": {
       "2025-10-20": 494,
@@ -506,7 +506,7 @@
       "2026-10-14": 492,
       "2026-10-17": 136,
       "2026-10-16": 38,
-      "2026-10-18": 7
+      "2026-10-18": 14
     }
   },
   {
@@ -523,7 +523,7 @@
     "time": 6441,
     "timeDay": 6981,
     "timeWeek": 7577,
-    "timeMonth": 7988,
+    "timeMonth": 7992,
     "timeYear": 6441,
     "dailyMinutesDown": {
       "2026-06-18": 287,
