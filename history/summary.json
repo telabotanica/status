@@ -8,12 +8,12 @@
     "uptime": "98.41%",
     "uptimeDay": "25.04%",
     "uptimeWeek": "54.40%",
-    "uptimeMonth": "72.00%",
-    "uptimeYear": "92.59%",
+    "uptimeMonth": "71.97%",
+    "uptimeYear": "92.57%",
     "time": 1650,
     "timeDay": 1199,
     "timeWeek": 4613,
-    "timeMonth": 3169,
+    "timeMonth": 3185,
     "timeYear": 1659,
     "dailyMinutesDown": {
       "2025-12-19": 77,
@@ -115,7 +115,7 @@
       "2026-11-06": 699,
       "2026-11-07": 672,
       "2026-11-08": 1079,
-      "2026-11-09": 225
+      "2026-11-09": 340
     }
   },
   {
@@ -275,17 +275,17 @@
     "url": "https://www.tela-botanica.org/service:annuaire:auth/",
     "icon": "https://web.archive.org/web/20220220002034im_/https://www.tela-botanica.org/favicon.ico",
     "slug": "annuaire-api",
-    "status": "down",
+    "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "25.31%",
-    "uptimeWeek": "59.31%",
-    "uptimeMonth": "73.69%",
-    "uptimeYear": "92.83%",
-    "time": 1032,
-    "timeDay": 973,
-    "timeWeek": 2352,
-    "timeMonth": 2021,
-    "timeYear": 1034,
+    "uptimeDay": "25.66%",
+    "uptimeWeek": "59.36%",
+    "uptimeMonth": "73.44%",
+    "uptimeYear": "92.81%",
+    "time": 1035,
+    "timeDay": 9075,
+    "timeWeek": 3176,
+    "timeMonth": 2153,
+    "timeYear": 1038,
     "dailyMinutesDown": {
       "2025-12-03": 60,
       "2025-12-04": 55,
@@ -387,7 +387,7 @@
       "2026-11-06": 231,
       "2026-11-07": 653,
       "2026-11-08": 1075,
-      "2026-11-09": 230
+      "2026-11-09": 340
     }
   },
   {
@@ -395,17 +395,17 @@
     "url": "https://www.tela-botanica.org/smartflore-services/trails",
     "icon": "https://www.tela-botanica.org/smart-form/favicon.ico",
     "slug": "smart-flore-api",
-    "status": "down",
+    "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "25.65%",
-    "uptimeWeek": "59.52%",
-    "uptimeMonth": "74.22%",
-    "uptimeYear": "92.99%",
-    "time": 7485,
-    "timeDay": 1409,
-    "timeWeek": 2741,
-    "timeMonth": 3520,
-    "timeYear": 7470,
+    "uptimeDay": "26.06%",
+    "uptimeWeek": "59.58%",
+    "uptimeMonth": "74.19%",
+    "uptimeYear": "92.97%",
+    "time": 7488,
+    "timeDay": 12070,
+    "timeWeek": 3851,
+    "timeMonth": 3699,
+    "timeYear": 7472,
     "dailyMinutesDown": {
       "2025-11-17": 498,
       "2025-11-16": 47,
@@ -506,7 +506,7 @@
       "2026-11-06": 226,
       "2026-11-07": 643,
       "2026-11-08": 1070,
-      "2026-11-09": 231
+      "2026-11-09": 340
     }
   },
   {
