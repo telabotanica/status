@@ -6,13 +6,13 @@
     "slug": "site-web-de-tela-botanica",
     "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "72.53%",
-    "uptimeYear": "92.38%",
+    "uptimeDay": "85.75%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "72.06%",
+    "uptimeYear": "92.34%",
     "time": 1672,
-    "timeDay": 1810,
-    "timeWeek": 2047,
+    "timeDay": 2049,
+    "timeWeek": 2067,
     "timeMonth": 3224,
     "timeYear": 1679,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
       "2026-11-09": 447,
       "2026-11-11": 602,
       "2026-11-10": 432,
-      "2026-11-20": 1
+      "2026-11-20": 205
     }
   },
   {
@@ -131,8 +131,8 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.23%",
     "time": 1119,
-    "timeDay": 1365,
-    "timeWeek": 1312,
+    "timeDay": 1496,
+    "timeWeek": 1317,
     "timeMonth": 1150,
     "timeYear": 1121,
     "dailyMinutesDown": {
@@ -205,8 +205,8 @@
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.27%",
     "time": 1239,
-    "timeDay": 1669,
-    "timeWeek": 1913,
+    "timeDay": 1805,
+    "timeWeek": 1928,
     "timeMonth": 1704,
     "timeYear": 1246,
     "dailyMinutesDown": {
@@ -279,8 +279,8 @@
     "uptimeMonth": "73.98%",
     "uptimeYear": "92.63%",
     "time": 1050,
-    "timeDay": 4840,
-    "timeWeek": 1820,
+    "timeDay": 6059,
+    "timeWeek": 1855,
     "timeMonth": 2179,
     "timeYear": 1057,
     "dailyMinutesDown": {
@@ -400,8 +400,8 @@
     "uptimeMonth": "75.35%",
     "uptimeYear": "92.93%",
     "time": 7434,
-    "timeDay": 6270,
-    "timeWeek": 3513,
+    "timeDay": 7809,
+    "timeWeek": 3568,
     "timeMonth": 4095,
     "timeYear": 7407,
     "dailyMinutesDown": {
@@ -519,8 +519,8 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.42%",
     "time": 6541,
-    "timeDay": 11547,
-    "timeWeek": 9743,
+    "timeDay": 9018,
+    "timeWeek": 9827,
     "timeMonth": 7376,
     "timeYear": 6541,
     "dailyMinutesDown": {
